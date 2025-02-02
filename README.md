@@ -8,6 +8,10 @@ A Python-based sniper tool designed for the Flaunch platform to optimize your to
 - **Sniper Mode 2**: Snipes new tokens, holds them, and sells when the target profit threshold is reached.
 - **Sniper Mode 3**: Snipes and holds tokens for an extended period.
 
+## Flaunch Platform
+
+For more details on the Flaunch platform, visit [Flaunch.gg](https://flaunch.gg/).
+
 ## Contact
 
 For pricing and inquiries, reach out via Telegram: [https://t.me/astro_xddrx](https://t.me/astro_xddrx).
